@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Daniel 👋</h1>
 
 ## About me
-<br><br>
 -  **Where :** Lincoln, England
 -  **Age :** 18
 -  **Learning :** Rust 🦀

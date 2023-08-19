@@ -1,7 +1,6 @@
-<h1 align="center">Hi, I'm Daniel 👋</h1>
-
-## About me
--  **Where :** <kbd>Lincoln, England</kbd>
--  **Age :** <kbd>18</kbd>
--  **Learning :** <kbd>Rust</kbd>
--  **Languages :** <kbd>Typescript</kbd> <kbd>Python</kbd> <kbd>Go</kbd> <kbd>C#</kbd> <kbd>C++</kbd> <kbd>Lua</kbd>
+# `hi, im daniel`
+### `about me`
+-  **where :** <kbd>Lincoln, England</kbd>
+-  **age :** <kbd>18</kbd>
+-  **learning :** <kbd>Rust</kbd>
+-  **languages :** <kbd>Typescript</kbd> <kbd>Python</kbd> <kbd>Go</kbd> <kbd>C#</kbd> <kbd>C++</kbd> <kbd>Lua</kbd>

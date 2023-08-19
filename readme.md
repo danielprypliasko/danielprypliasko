@@ -1,7 +1,7 @@
-<h1 align="center">Hi , I'm Daniel 👋</h1>
+<h1 align="center">Hi, I'm Daniel 👋</h1>
 
 ## About me
--  **Where :** Lincoln, England
--  **Age :** 18
--  **Learning :** Rust 🦀
--  **Languages :** Typescript, Python, Go, C#, C++, Lua
+-  **Where :** <kbd>Lincoln, England</kbd>
+-  **Age :** <kbd>18</kbd>
+-  **Learning :** <kbd>Rust</kbd>
+-  **Languages :** <kbd>Typescript</kbd> <kbd>Python</kbd> <kbd>Go</kbd> <kbd>C#</kbd> <kbd>C++</kbd> <kbd>Lua</kbd>
